@@ -40,14 +40,15 @@ Non-Interactive:
                $ cat test_help | ./console.py
                (hbnb)
 
-Documented commands (type help <topic>):
-========================================
-EOF  help  quit
-(hbnb) 
-$
+               Documented commands (type help <topic>):
+               ========================================
+               EOF  help  quit
+               (hbnb) 
+               $
 
-##Created Classes
+## Created Classes
 The following classes are included in this projet:
+
         + BaseModel
         + User
         + State
@@ -55,6 +56,7 @@ The following classes are included in this projet:
         + Amenity
         + Place
         + Review
-##Authors
+
+## Authors
 + samuel12451
 + emmakotey
